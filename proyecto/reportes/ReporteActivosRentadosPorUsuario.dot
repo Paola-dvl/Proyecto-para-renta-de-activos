@@ -1,0 +1,15 @@
+digraph{
+node [shape=box];
+
+#Transacciones por usuario
+"skO2bQ75nnFQZZ1" [label="ID: skO2bQ75nnFQZZ1
+ID Activo: 9aYw8KGY0BCWGA2
+Usuario: 1
+Departamento: 1
+Empresa: 1
+Fecha de inicio: 17-12-2024 09:01:45
+Tiempo de renta: 10
+Devuelto: 0"]
+"skO2bQ75nnFQZZ1" -> "skO2bQ75nnFQZZ1"
+"skO2bQ75nnFQZZ1" -> "skO2bQ75nnFQZZ1"
+}

@@ -1,0 +1,28 @@
+digraph{
+node [shape=box];
+
+#Activos
+"TW5vs9aQbHwX405" [label="ID: TW5vs9aQbHwX405
+Nombre: 1
+Descripcion: 1"]
+"TW5vs9aQbHwX405" -> "JLVIKCfeAVLAiFy"
+"TW5vs9aQbHwX405" -> "krdAKde6NymXiE4"
+"JLVIKCfeAVLAiFy" [label="ID: JLVIKCfeAVLAiFy
+Nombre: 2
+Descripcion: 2"]
+"JLVIKCfeAVLAiFy" -> "Bf7b8HcTHuvJjTI"
+"Bf7b8HcTHuvJjTI" [label="ID: Bf7b8HcTHuvJjTI
+Nombre: 6
+Descripcion: 6"]
+"krdAKde6NymXiE4" [label="ID: krdAKde6NymXiE4
+Nombre: 5
+Descripcion: 5"]
+"krdAKde6NymXiE4" -> "aLU6bJV8d6fC0gc"
+"krdAKde6NymXiE4" -> "xCbE7TVPfHZceuY"
+"aLU6bJV8d6fC0gc" [label="ID: aLU6bJV8d6fC0gc
+Nombre: 3
+Descripcion: 3"]
+"xCbE7TVPfHZceuY" [label="ID: xCbE7TVPfHZceuY
+Nombre: 4
+Descripcion: 4"]
+}

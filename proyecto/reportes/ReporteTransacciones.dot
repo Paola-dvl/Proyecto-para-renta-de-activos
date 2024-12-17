@@ -1,0 +1,35 @@
+digraph{
+node [shape=box];
+
+#Transacciones
+"BRvBcfRadA1Kd4N" [label="ID: BRvBcfRadA1Kd4N
+ID Activo: hVNm2butWznofc8
+Usuario: juanito
+Departamento: jutiapa
+Empresa: max
+Fecha de inicio: 17-12-2024 10:34:31
+Tiempo de renta: 1
+Devuelto: 0"]
+"BRvBcfRadA1Kd4N" -> "BupChaS6d411g8B"
+"BupChaS6d411g8B" -> "BRvBcfRadA1Kd4N"
+"BupChaS6d411g8B" [label="ID: BupChaS6d411g8B
+ID Activo: AoJqdsYGsITTlGn
+Usuario: juanito
+Departamento: jutiapa
+Empresa: max
+Fecha de inicio: 17-12-2024 10:34:47
+Tiempo de renta: 3
+Devuelto: 0"]
+"BupChaS6d411g8B" -> "iIeWOACkRzGd9Nz"
+"iIeWOACkRzGd9Nz" -> "BupChaS6d411g8B"
+"iIeWOACkRzGd9Nz" [label="ID: iIeWOACkRzGd9Nz
+ID Activo: HFq06MAnZJ5Jijy
+Usuario: juanito
+Departamento: jutiapa
+Empresa: max
+Fecha de inicio: 17-12-2024 10:34:40
+Tiempo de renta: 2
+Devuelto: 0"]
+"iIeWOACkRzGd9Nz" -> "BRvBcfRadA1Kd4N"
+"BRvBcfRadA1Kd4N" -> "iIeWOACkRzGd9Nz"
+}

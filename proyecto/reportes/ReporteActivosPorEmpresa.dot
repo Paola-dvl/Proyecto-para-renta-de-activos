@@ -1,0 +1,30 @@
+digraph{
+node [shape=box];
+subgraph cluster_0{
+"na2y6U5yTrEm9L3" [label="ID: na2y6U5yTrEm9L3
+Nombre: 2
+Descripcion: 2"]
+"na2y6U5yTrEm9L3" -> "CiRxZbqLveLQHEb"
+"na2y6U5yTrEm9L3" -> "qQMvhPUaVc0QiyE"
+"CiRxZbqLveLQHEb" [label="ID: CiRxZbqLveLQHEb
+Nombre: 4
+Descripcion: 4"]
+"CiRxZbqLveLQHEb" -> "00xwzyG12V6oVgr"
+"CiRxZbqLveLQHEb" -> "EjH0xfhQ6C6TQpH"
+"00xwzyG12V6oVgr" [label="ID: 00xwzyG12V6oVgr
+Nombre: 0
+Descripcion: 0"]
+"EjH0xfhQ6C6TQpH" [label="ID: EjH0xfhQ6C6TQpH
+Nombre: 3
+Descripcion: 3"]
+"qQMvhPUaVc0QiyE" [label="ID: qQMvhPUaVc0QiyE
+Nombre: 1
+Descripcion: 1"]
+"qQMvhPUaVc0QiyE" -> "zYJ8l39K4jY4Qqs"
+"zYJ8l39K4jY4Qqs" [label="ID: zYJ8l39K4jY4Qqs
+Nombre: 5
+Descripcion: 5"]
+
+label="Usuario: 1"}
+
+}
